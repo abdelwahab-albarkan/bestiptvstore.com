@@ -1,0 +1,231 @@
+{
+  "timestamp": "2026-10-31T15:44:51.098Z",
+  "totalPages": 31,
+  "pagesApprovedForIndexing": 31,
+  "pagesRejected": 0,
+  "qualityGateStatus": "APPROVED",
+  "routes": [
+    {
+      "route": "/apps/ibo-player",
+      "title": "IBO Player Setup Guide — Best IPTV App for Samsung & LG Smart TVs",
+      "h1": "IBO Player Setup & Activation Guide",
+      "wordCount": 753,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/apps/iptv-smarters-pro",
+      "title": "IPTV Smarters Pro Setup & Download Guide for Firestick & Android",
+      "h1": "IPTV Smarters Pro: Complete Download & Setup Guide",
+      "wordCount": 757,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/apps/kodi",
+      "title": "How to Setup IPTV on Kodi using PVR IPTV Simple Client (2026)",
+      "h1": "How to Setup IPTV on Kodi (PVR IPTV Simple Client)",
+      "wordCount": 735,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/apps",
+      "title": "Best IPTV Players & Streaming Apps for 2026 — Comprehensive Guide",
+      "h1": "Best IPTV Players & Streaming Apps (Ranked & Tested)",
+      "wordCount": 632,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/apps/tivimate",
+      "title": "TiviMate IPTV Player Review & Premium Setup Walkthrough (2026)",
+      "h1": "TiviMate IPTV Player: Review & Setup Walkthrough",
+      "wordCount": 750,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/apps/xciptv",
+      "title": "XCIPTV Player Setup Guide — Modern Dual-Player IPTV Interface",
+      "h1": "XCIPTV Player: Setup & Feature Walkthrough",
+      "wordCount": 732,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/channels",
+      "title": "USA IPTV Channel List — Live Sports, Local News & 4K Entertainment",
+      "h1": "Complete USA & Worldwide IPTV Channel Lineup",
+      "wordCount": 910,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/compare/cable-vs-iptv",
+      "title": "Cable TV vs IPTV: Complete Cost, Channel & Quality Comparison (2026)",
+      "h1": "Cable TV vs IPTV: 2026 Cost & Channel Comparison",
+      "wordCount": 778,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/contact",
+      "title": "Contact IPTVSubs8K Support",
+      "h1": "Contact IPTVSubs8K Support",
+      "wordCount": 688,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/free-trial",
+      "title": "Test 8K & 4K IPTV Streaming Risk-Free",
+      "h1": "Test 8K & 4K IPTV Streaming Risk-Free",
+      "wordCount": 1029,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/guides/best-iptv-providers-usa",
+      "title": "Best IPTV Providers in USA (2026 Tested & Reviewed)",
+      "h1": "Best IPTV Providers in the USA (2026 Tested & Reviewed)",
+      "wordCount": 757,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/guides/iptv-scams-guide",
+      "title": "IPTV Scams: How to Spot Fake Providers & Protect Your Payment (2026)",
+      "h1": "IPTV Scams: How to Spot Fake Providers & Protect Your Money",
+      "wordCount": 833,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/guides/is-iptv-legal-usa",
+      "title": "Is IPTV Legal in the USA? 2026 Legal & Safety Guide for Consumers",
+      "h1": "Is IPTV Legal in the United States? (2026 Guide)",
+      "wordCount": 872,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/",
+      "title": "Best IPTV Service Provider in USA (2026) — 8K & 4K Streaming",
+      "h1": "The #1 Rated IPTV Service in the United States",
+      "wordCount": 1676,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/pricing",
+      "title": "IPTV Subscription Plans & Pricing — IPTVSubs8K USA",
+      "h1": "IPTV Subscription Plans & Pricing (USA 2026)",
+      "wordCount": 1133,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/privacy",
+      "title": "Privacy Policy — IPTVSubs8K Data Protection",
+      "h1": "Privacy Policy & Data Security",
+      "wordCount": 539,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/refund-policy",
+      "title": "Refund Policy & 7-Day Money-Back Guarantee — IPTVSubs8K",
+      "h1": "7-Day Money-Back Refund Policy",
+      "wordCount": 619,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/reseller",
+      "title": "IPTV Reseller Panel & Program — Start Your IPTV Business",
+      "h1": "Start Your IPTV Business with Our Reseller Panel",
+      "wordCount": 800,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/android-tv",
+      "title": "How to Setup IPTV on Android TV, Google TV & Android Boxes (2026)",
+      "h1": "How to Setup IPTV on Android TV & Google TV (2026 Guide)",
+      "wordCount": 818,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/apple-tv",
+      "title": "How to Setup IPTV on Apple TV 4K, iPhone & iPad (iOS/tvOS 2026)",
+      "h1": "How to Setup IPTV on Apple TV 4K & iOS (2026 Guide)",
+      "wordCount": 742,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/firestick",
+      "title": "How to Install & Setup IPTV on Amazon Firestick / Fire TV (2026)",
+      "h1": "How to Install & Setup IPTV on Amazon Firestick (2026 Guide)",
+      "wordCount": 1068,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/mag-formuler",
+      "title": "How to Setup IPTV on MAG & Formuler Boxes (Portal URL / Stalker)",
+      "h1": "How to Setup IPTV on MAG & Formuler Boxes",
+      "wordCount": 761,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup",
+      "title": "IPTV Setup & Installation Hub — Complete Device Tutorials (2026)",
+      "h1": "How to Install & Setup IPTV on Any Device",
+      "wordCount": 722,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/pc-mac",
+      "title": "How to Watch IPTV on Windows PC & Mac (VLC & Desktop Apps)",
+      "h1": "How to Watch IPTV on Windows PC & Mac (2026 Guide)",
+      "wordCount": 749,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/roku",
+      "title": "How to Use IPTV on Roku TV & Roku Streaming Stick (2026 Guide)",
+      "h1": "How to Use IPTV on Roku TV (The Truth & Workarounds)",
+      "wordCount": 907,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/setup/smart-tv",
+      "title": "How to Install IPTV on Samsung & LG Smart TVs (Tizen & webOS)",
+      "h1": "How to Install IPTV on Samsung & LG Smart TVs (2026)",
+      "wordCount": 835,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/terms",
+      "title": "Terms of Service — IPTVSubs8K",
+      "h1": "Subscriber Agreement & Service Terms",
+      "wordCount": 670,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/troubleshooting/iptv-buffering",
+      "title": "How to Stop IPTV Buffering & Freezing: 7 Proven Fixes (2026)",
+      "h1": "How to Stop IPTV Buffering & Freezing: 7 Proven Fixes",
+      "wordCount": 809,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/troubleshooting/iptv-not-working",
+      "title": "IPTV Not Working? Step-by-Step Fixes for Black Screens & Errors",
+      "h1": "IPTV Not Working? Step-by-Step Troubleshooting Guide",
+      "wordCount": 719,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/troubleshooting",
+      "title": "IPTV Troubleshooting Hub — Fix Buffering, Freezing & Connection Issues",
+      "h1": "Fix IPTV Buffering, Freezing & Connection Errors",
+      "wordCount": 751,
+      "status": "INDEXABLE"
+    },
+    {
+      "route": "/troubleshooting/vpn-isp-throttling",
+      "title": "Best VPN for IPTV & How to Bypass ISP Throttling in the USA (2026)",
+      "h1": "Best VPN for IPTV & How to Stop ISP Throttling (2026)",
+      "wordCount": 724,
+      "status": "INDEXABLE"
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "Notice: meta description check on /contact",
+    "Notice: meta description check on /free-trial"
+  ]
+}

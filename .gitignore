@@ -1,0 +1,51 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# scratch and scrape dumps
+scratch/
+*.html
+*_error.txt
+parsed_results.json
+analyzed_summary.json
+
+# raw data backups and spreadsheet exports
+data/*.xlsx
+data/*.csv
+data/pages_4000*.json
+data/keywords_master*.json
+data/filtered/

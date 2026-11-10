@@ -1,0 +1,76 @@
+[
+  {
+    "id": "usa-sports",
+    "name": "USA Premium Sports & PPV",
+    "badge": "Live Events",
+    "count": "350+ Channels",
+    "channels": [
+      { "name": "NFL Network & NFL RedZone", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "ESPN 1, 2, News, ESPNU", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "FOX Sports 1 (FS1) & FS2", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "NBA TV & NBA League Pass Feeds", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "MLB Network & Extra Innings", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "NHL Network & Center Ice", "resolution": "4K UHD", "category": "USA Sports", "isPopular": true },
+      { "name": "NBC Sports Network & Peacock Feeds", "resolution": "4K UHD", "category": "USA Sports" },
+      { "name": "UFC Fight Night & Main Card PPV", "resolution": "8K", "category": "USA Sports", "isPopular": true },
+      { "name": "WWE Network & Special Events", "resolution": "4K UHD", "category": "USA Sports" },
+      { "name": "Golf Channel USA", "resolution": "FHD 1080p", "category": "USA Sports" },
+      { "name": "Tennis Channel HD", "resolution": "FHD 1080p", "category": "USA Sports" },
+      { "name": "CBS Sports Network (CBSSN)", "resolution": "FHD 1080p", "category": "USA Sports" },
+      { "name": "Bally Sports Regional Networks", "resolution": "4K UHD", "category": "USA Sports" },
+      { "name": "YES Network (New York Yankees)", "resolution": "4K UHD", "category": "USA Sports" },
+      { "name": "NESN (Boston Red Sox & Bruins)", "resolution": "4K UHD", "category": "USA Sports" },
+      { "name": "Marquee Sports (Chicago Cubs)", "resolution": "FHD 1080p", "category": "USA Sports" }
+    ]
+  },
+  {
+    "id": "usa-locals",
+    "name": "USA Major Local Networks",
+    "badge": "All 50 States",
+    "count": "1,200+ Stations",
+    "channels": [
+      { "name": "ABC East & West (NY, LA, Chicago, Miami)", "resolution": "4K UHD", "category": "Local News", "isPopular": true },
+      { "name": "CBS East & West (NY, LA, Dallas, Atlanta)", "resolution": "4K UHD", "category": "Local News", "isPopular": true },
+      { "name": "NBC East & West (NY, LA, Houston, Philly)", "resolution": "4K UHD", "category": "Local News", "isPopular": true },
+      { "name": "FOX East & West (National + Local Feeds)", "resolution": "4K UHD", "category": "Local News", "isPopular": true },
+      { "name": "The CW Network", "resolution": "FHD 1080p", "category": "Local News" },
+      { "name": "PBS National & Kids", "resolution": "FHD 1080p", "category": "Local News" },
+      { "name": "Telemundo Local Affiliates", "resolution": "FHD 1080p", "category": "Local News" },
+      { "name": "Univision National & Regional", "resolution": "FHD 1080p", "category": "Local News" }
+    ]
+  },
+  {
+    "id": "usa-entertainment",
+    "name": "Entertainment & Premium Movies",
+    "badge": "Cinema & Series",
+    "count": "800+ Channels",
+    "channels": [
+      { "name": "HBO, HBO 2, HBO Signature, HBO Family", "resolution": "4K UHD", "category": "Entertainment", "isPopular": true },
+      { "name": "Cinemax East & West", "resolution": "4K UHD", "category": "Entertainment" },
+      { "name": "Showtime Showcase & Extreme", "resolution": "4K UHD", "category": "Entertainment", "isPopular": true },
+      { "name": "Starz & Starz Encore Suite", "resolution": "4K UHD", "category": "Entertainment" },
+      { "name": "MGM+ (EPIX) Channels", "resolution": "FHD 1080p", "category": "Entertainment" },
+      { "name": "AMC & AMC+", "resolution": "4K UHD", "category": "Entertainment", "isPopular": true },
+      { "name": "FX, FXX, & FXM", "resolution": "FHD 1080p", "category": "Entertainment" },
+      { "name": "TNT, TBS, & USA Network", "resolution": "4K UHD", "category": "Entertainment", "isPopular": true },
+      { "name": "Bravo HD & E! Entertainment", "resolution": "FHD 1080p", "category": "Entertainment" },
+      { "name": "Comedy Central & Paramount Network", "resolution": "FHD 1080p", "category": "Entertainment" }
+    ]
+  },
+  {
+    "id": "usa-news",
+    "name": "National & Global News",
+    "badge": "24/7 Coverage",
+    "count": "150+ Channels",
+    "channels": [
+      { "name": "CNN USA & International", "resolution": "4K UHD", "category": "News", "isPopular": true },
+      { "name": "FOX News Channel & Fox Business", "resolution": "4K UHD", "category": "News", "isPopular": true },
+      { "name": "MSNBC & CNBC HD", "resolution": "4K UHD", "category": "News", "isPopular": true },
+      { "name": "BBC World News & BBC America", "resolution": "FHD 1080p", "category": "News" },
+      { "name": "Bloomberg Television HD", "resolution": "FHD 1080p", "category": "News" },
+      { "name": "The Weather Channel & AccuWeather", "resolution": "FHD 1080p", "category": "News" },
+      { "name": "C-SPAN 1, 2, 3", "resolution": "FHD 1080p", "category": "News" }
+    ]
+  }
+]
+

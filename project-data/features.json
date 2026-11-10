@@ -1,0 +1,45 @@
+[
+  {
+    "id": "feat-8k-quality",
+    "title": "Native 8K & 4K 60FPS Ultra HD",
+    "description": "Experience television as it was meant to be seen with true uncompressed 60FPS feeds, crystal clear high-bitrate audio, and adaptive multi-resolution support.",
+    "icon": "Tv",
+    "badge": "True 8K"
+  },
+  {
+    "id": "feat-anti-freeze",
+    "title": "Anti-Freeze™ 9.2 Technology",
+    "description": "Say goodbye to buffering and spinning wheels during championship games. Dynamic load balancing routes traffic through redundant 10Gbps Tier-1 edge data centers.",
+    "icon": "Zap",
+    "badge": "Zero Buffering"
+  },
+  {
+    "id": "feat-channels",
+    "title": "+40,000 Live TV Channels",
+    "description": "Full access to local US affiliates in all 50 states, premium sports packages, national news networks, and premium international channels.",
+    "icon": "Layers",
+    "badge": "Worldwide"
+  },
+  {
+    "id": "feat-vod",
+    "title": "+200,000 Movies & TV Series",
+    "description": "Unlimited on-demand cinema with new Hollywood releases, complete series box sets, and multi-language subtitles updated daily.",
+    "icon": "Film",
+    "badge": "Daily Updates"
+  },
+  {
+    "id": "feat-devices",
+    "title": "Universal Device Compatibility",
+    "description": "Works flawlessly on Amazon Firestick, Android TV, Samsung & LG Smart TVs, Apple TV, iOS, Windows, Mac, and MAG boxes.",
+    "icon": "MonitorPlay",
+    "badge": "All Screens"
+  },
+  {
+    "id": "feat-support",
+    "title": "24/7 Dedicated Concierge Support",
+    "description": "Real human engineers standing by around the clock via live WhatsApp chat and priority ticketing to help you with setup and tuning.",
+    "icon": "Headphones",
+    "badge": "24/7 Support"
+  }
+]
+

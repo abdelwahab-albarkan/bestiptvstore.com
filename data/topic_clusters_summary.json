@@ -1,0 +1,1669 @@
+[
+  {
+    "clusterId": "brand_and_core_service",
+    "name": "Brand & Core IPTV Service (8K/4K)",
+    "keywordCount": 290,
+    "totalVolume": 79280,
+    "topKeywords": [
+      {
+        "Keyword": "iptv service",
+        "Intent": "Informational, Commercial",
+        "Volume": 9900,
+        "Difficulty": 28,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv services",
+        "Intent": "Informational, Commercial",
+        "Volume": 5400,
+        "Difficulty": 37,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "4k iptv encoder",
+        "Intent": "Informational, Commercial",
+        "Volume": 5400,
+        "Difficulty": 20,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "best iptv service",
+        "Intent": "Commercial",
+        "Volume": 3600,
+        "Difficulty": 11,
+        "CPC": "0",
+        "SERP": "AI Overview, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "medi 8k",
+        "Intent": "Informational, Commercial",
+        "Volume": 2900,
+        "Difficulty": 18,
+        "CPC": "1.21",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image pack, Video, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "usa_providers_and_pricing",
+    "name": "IPTV USA Providers, Pricing & Subscriptions",
+    "keywordCount": 531,
+    "totalVolume": 130760,
+    "topKeywords": [
+      {
+        "Keyword": "satellite television packages",
+        "Intent": "Commercial",
+        "Volume": 22200,
+        "Difficulty": 48,
+        "CPC": "2.1",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "usa network live stream",
+        "Intent": "Commercial",
+        "Volume": 4400,
+        "Difficulty": 53,
+        "CPC": "2.19",
+        "SERP": "AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "television tv price",
+        "Intent": "Transactional",
+        "Volume": 2900,
+        "Difficulty": 52,
+        "CPC": "0.24",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "stream usa network",
+        "Intent": "Informational, Commercial",
+        "Volume": 2900,
+        "Difficulty": 27,
+        "CPC": "1.51",
+        "SERP": "AI Overview, Video, People also ask",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv usa",
+        "Intent": "Commercial",
+        "Volume": 2400,
+        "Difficulty": 18,
+        "CPC": "1.3",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "free_trial_and_testing",
+    "name": "Free Trial & Test Account",
+    "keywordCount": 33,
+    "totalVolume": 3250,
+    "topKeywords": [
+      {
+        "Keyword": "televisie test",
+        "Intent": "Commercial",
+        "Volume": 390,
+        "Difficulty": 64,
+        "CPC": "1.22",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "bestbuyiptv free iptv trial",
+        "Intent": "Commercial",
+        "Volume": 320,
+        "Difficulty": 17,
+        "CPC": "0",
+        "SERP": "AI Overview, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "bestbuy iptv iptv trial",
+        "Intent": "Commercial",
+        "Volume": 320,
+        "Difficulty": 24,
+        "CPC": "0",
+        "SERP": "AI Overview, Reviews, Video, People also ask",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "antenna test",
+        "Intent": "Informational, Commercial",
+        "Volume": 210,
+        "Difficulty": 7,
+        "CPC": "1.19",
+        "SERP": "Sitelinks, AI Overview, Image pack, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv 24 hour free trial channel list",
+        "Intent": "Informational, Commercial",
+        "Volume": 210,
+        "Difficulty": 4,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_firestick_and_firetv",
+    "name": "Amazon Firestick & Fire TV Setup",
+    "keywordCount": 476,
+    "totalVolume": 167520,
+    "topKeywords": [
+      {
+        "Keyword": "firestick remote",
+        "Intent": "Commercial",
+        "Volume": 33100,
+        "Difficulty": 30,
+        "CPC": "0.91",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image, Video, Short videos, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "fire tv remote",
+        "Intent": "Informational, Commercial",
+        "Volume": 18100,
+        "Difficulty": 40,
+        "CPC": "0.81",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "amazon fire tv remote",
+        "Intent": "Informational, Transactional",
+        "Volume": 6600,
+        "Difficulty": 47,
+        "CPC": "0.87",
+        "SERP": "Sitelinks, AI Overview, Reviews, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku vs firestick",
+        "Intent": "Commercial",
+        "Volume": 5400,
+        "Difficulty": 41,
+        "CPC": "0.16",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, Short videos, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "free vpn for firestick",
+        "Intent": "Informational, Commercial",
+        "Volume": 5400,
+        "Difficulty": 62,
+        "CPC": "1.6",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_android_tv",
+    "name": "Android TV & Android Box Setup",
+    "keywordCount": 235,
+    "totalVolume": 64140,
+    "topKeywords": [
+      {
+        "Keyword": "abox android tv",
+        "Intent": "Commercial",
+        "Volume": 9900,
+        "Difficulty": 33,
+        "CPC": "0.2",
+        "SERP": "Sitelinks, AI Overview, Image pack, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "iptv-box_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "android box for television",
+        "Intent": "Informational, Commercial",
+        "Volume": 6600,
+        "Difficulty": 45,
+        "CPC": "0.2",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "android tv boxes",
+        "Intent": "Commercial",
+        "Volume": 1900,
+        "Difficulty": 51,
+        "CPC": "0.17",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "google tv stick",
+        "Intent": "Informational, Commercial",
+        "Volume": 1900,
+        "Difficulty": 68,
+        "CPC": "0.55",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Knowledge panel, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "google tv box",
+        "Intent": "Informational, Commercial",
+        "Volume": 1900,
+        "Difficulty": 66,
+        "CPC": "0.25",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_smart_tv_samsung_lg",
+    "name": "Smart TVs (Samsung Tizen, LG webOS)",
+    "keywordCount": 1346,
+    "totalVolume": 525900,
+    "topKeywords": [
+      {
+        "Keyword": "smart tv",
+        "Intent": "Informational, Commercial",
+        "Volume": 74000,
+        "Difficulty": 56,
+        "CPC": "0.28",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "smart tv smart tv smart tv",
+        "Intent": "Informational, Commercial",
+        "Volume": 33100,
+        "Difficulty": 61,
+        "CPC": "0.28",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image pack, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "4k tv smart tv",
+        "Intent": "Informational, Commercial",
+        "Volume": 14800,
+        "Difficulty": 47,
+        "CPC": "0.29",
+        "SERP": "Sitelinks, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "small smart tv",
+        "Intent": "Informational, Commercial",
+        "Volume": 8100,
+        "Difficulty": 35,
+        "CPC": "0.18",
+        "SERP": "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku smart tv",
+        "Intent": "Informational, Commercial",
+        "Volume": 8100,
+        "Difficulty": 52,
+        "CPC": "0.31",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_apple_and_pc",
+    "name": "Apple TV, iOS & Windows/Mac",
+    "keywordCount": 84,
+    "totalVolume": 13560,
+    "topKeywords": [
+      {
+        "Keyword": "super tv para pc",
+        "Intent": "Commercial",
+        "Volume": 1000,
+        "Difficulty": 29,
+        "CPC": "0",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, Related searches, Popular products",
+        "Sources": [
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iphone roku remote",
+        "Intent": "Commercial",
+        "Volume": 590,
+        "Difficulty": 39,
+        "CPC": "1.39",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "best apple tv apps",
+        "Intent": "Commercial",
+        "Volume": 480,
+        "Difficulty": 37,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv github vlc",
+        "Intent": "Navigational, Transactional",
+        "Volume": 480,
+        "Difficulty": 44,
+        "CPC": "0",
+        "SERP": "Sitelinks, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv smarters pro windows",
+        "Intent": "Commercial",
+        "Volume": 480,
+        "Difficulty": 26,
+        "CPC": "0",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_mag_and_formuler",
+    "name": "MAG, Formuler & Stalker Middleware Boxes",
+    "keywordCount": 13,
+    "totalVolume": 2840,
+    "topKeywords": [
+      {
+        "Keyword": "mag box",
+        "Intent": "Informational, Commercial",
+        "Volume": 880,
+        "Difficulty": 24,
+        "CPC": "2.54",
+        "SERP": "Sitelinks, AI Overview, Image, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "formuler",
+        "Intent": "Navigational, Commercial",
+        "Volume": 720,
+        "Difficulty": 44,
+        "CPC": "0.23",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "formuler tv box",
+        "Intent": "Navigational, Commercial",
+        "Volume": 390,
+        "Difficulty": 35,
+        "CPC": "0.24",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "formuler iptv box",
+        "Intent": "Informational, Commercial",
+        "Volume": 170,
+        "Difficulty": 26,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Image, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "mag box iptv",
+        "Intent": "Commercial",
+        "Volume": 140,
+        "Difficulty": 28,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Image, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv-service_all-keywords_us_2026-10-31.xlsx",
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "device_roku",
+    "name": "Roku Player & TV Compatibility",
+    "keywordCount": 1665,
+    "totalVolume": 1528100,
+    "topKeywords": [
+      {
+        "Keyword": "roku tv",
+        "Intent": "Navigational, Commercial",
+        "Volume": 246000,
+        "Difficulty": 47,
+        "CPC": "0.47",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku login",
+        "Intent": "Navigational, Transactional",
+        "Volume": 201000,
+        "Difficulty": 69,
+        "CPC": "2.06",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku channel",
+        "Intent": "Navigational, Transactional",
+        "Volume": 165000,
+        "Difficulty": 77,
+        "CPC": "1.85",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Top stories, Related searches",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku stick",
+        "Intent": "Informational, Commercial",
+        "Volume": 110000,
+        "Difficulty": 46,
+        "CPC": "0.27",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "roku tv remote",
+        "Intent": "Informational, Transactional",
+        "Volume": 27100,
+        "Difficulty": 50,
+        "CPC": "0.85",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources": [
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "apps_smarters_pro",
+    "name": "IPTV Smarters Pro & Smarters Player",
+    "keywordCount": 28,
+    "totalVolume": 4920,
+    "topKeywords": [
+      {
+        "Keyword": "iptv smarters plus",
+        "Intent": "Commercial",
+        "Volume": 1300,
+        "Difficulty": 33,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv smarters pro apk",
+        "Intent": "Informational, Commercial",
+        "Volume": 590,
+        "Difficulty": 42,
+        "CPC": "0",
+        "SERP": "AI Overview, Reviews, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv smarters apk",
+        "Intent": "Commercial",
+        "Volume": 320,
+        "Difficulty": 31,
+        "CPC": "0",
+        "SERP": "AI Overview, Reviews, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "smarters pro online player",
+        "Intent": "Transactional",
+        "Volume": 260,
+        "Difficulty": 29,
+        "CPC": "0",
+        "SERP": "Reviews, Video, Video carousel, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "whmcs smarters",
+        "Intent": "Informational, Transactional",
+        "Volume": 260,
+        "Difficulty": 25,
+        "CPC": "1.33",
+        "SERP": "Reviews, Image pack, Video, People also ask, Knowledge panel, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "apps_tivimate",
+    "name": "TiviMate IPTV Player & Premium",
+    "keywordCount": 13,
+    "totalVolume": 2690,
+    "topKeywords": [
+      {
+        "Keyword": "tivimate companion",
+        "Intent": "Commercial",
+        "Volume": 880,
+        "Difficulty": 29,
+        "CPC": "0.95",
+        "SERP": "Sitelinks, AI Overview, Reviews, Discussions and forums",
+        "Sources": [
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tivimate login",
+        "Intent": "Transactional",
+        "Volume": 590,
+        "Difficulty": 49,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tivimate reddit",
+        "Intent": "Navigational, Transactional",
+        "Volume": 260,
+        "Difficulty": 32,
+        "CPC": "0",
+        "SERP": "Sitelinks, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tivimate log in",
+        "Intent": "Navigational, Transactional",
+        "Volume": 260,
+        "Difficulty": 18,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tivimate review",
+        "Intent": "Commercial",
+        "Volume": 140,
+        "Difficulty": 35,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+          "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+          "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "apps_ibo_and_xciptv",
+    "name": "IBO Player, XCIPTV & Other Players",
+    "keywordCount": 776,
+    "totalVolume": 140370,
+    "topKeywords": [
+      {
+        "Keyword": "player for streaming",
+        "Intent": "Informational, Commercial",
+        "Volume": 2900,
+        "Difficulty": 27,
+        "CPC": "0.37",
+        "SERP": "AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "kodi addons",
+        "Intent": "Commercial",
+        "Volume": 2900,
+        "Difficulty": 54,
+        "CPC": "0.02",
+        "SERP": "Sitelinks, AI Overview, Image, Image pack, Video, Video carousel, People also ask, Discussions and forums",
+        "Sources": [
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "kodi add ons",
+        "Intent": "Informational, Commercial",
+        "Volume": 2400,
+        "Difficulty": 38,
+        "CPC": "0.02",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums",
+        "Sources": [
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "m3u playlist",
+        "Intent": "Commercial",
+        "Volume": 1900,
+        "Difficulty": 16,
+        "CPC": "1.09",
+        "SERP": "AI Overview, People also ask, Related searches",
+        "Sources": [
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "best kodi builds 2025",
+        "Intent": "Commercial",
+        "Volume": 1900,
+        "Difficulty": 34,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, People also ask",
+        "Sources": [
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "kodi-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "sports_and_local_channels",
+    "name": "USA Local Channels & Live Sports Streaming",
+    "keywordCount": 805,
+    "totalVolume": 241520,
+    "topKeywords": [
+      {
+        "Keyword": "soccer streams reddit",
+        "Intent": "Commercial",
+        "Volume": 12100,
+        "Difficulty": 25,
+        "CPC": "0.00",
+        "SERP": "Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+        ]
+      },
+      {
+        "Keyword": "reddit soccer stream",
+        "Intent": "Commercial",
+        "Volume": 9900,
+        "Difficulty": 28,
+        "CPC": "0.00",
+        "SERP": "Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+        ]
+      },
+      {
+        "Keyword": "sports streaming sites",
+        "Intent": "Informational, Commercial",
+        "Volume": 9900,
+        "Difficulty": 11,
+        "CPC": "1.8",
+        "SERP": "AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "soccer stream reddit",
+        "Intent": "Navigational, Transactional",
+        "Volume": 6600,
+        "Difficulty": 34,
+        "CPC": "0.00",
+        "SERP": "AI Overview, Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+        ]
+      },
+      {
+        "Keyword": "sports streams reddit",
+        "Intent": "Navigational, Transactional",
+        "Volume": 6600,
+        "Difficulty": 35,
+        "CPC": "0.00",
+        "SERP": "AI Overview, Video, Related searches",
+        "Sources": [
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "troubleshooting_and_buffering",
+    "name": "Troubleshooting, Buffering & Fixes",
+    "keywordCount": 39,
+    "totalVolume": 9680,
+    "topKeywords": [
+      {
+        "Keyword": "vpn for tv",
+        "Intent": "Commercial",
+        "Volume": 1900,
+        "Difficulty": 45,
+        "CPC": "2.78",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "vpn for bbc iplayer",
+        "Intent": "Informational, Commercial",
+        "Volume": 1600,
+        "Difficulty": 49,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "best vpn for iptv",
+        "Intent": "Commercial",
+        "Volume": 1000,
+        "Difficulty": 45,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+          "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-not-working_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "vpn tv app",
+        "Intent": "Informational, Commercial",
+        "Volume": 720,
+        "Difficulty": 46,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "free vpn for bbc iplayer",
+        "Intent": "Commercial",
+        "Volume": 590,
+        "Difficulty": 24,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "installation_and_guides",
+    "name": "How to Install & Setup IPTV",
+    "keywordCount": 11,
+    "totalVolume": 1490,
+    "topKeywords": [
+      {
+        "Keyword": "antenna installation near me",
+        "Intent": "Transactional",
+        "Volume": 480,
+        "Difficulty": 25,
+        "CPC": "1.3",
+        "SERP": "Reviews, Video, People also ask, Local pack, Related searches",
+        "Sources": [
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "best streaming setup",
+        "Intent": "Commercial",
+        "Volume": 210,
+        "Difficulty": 32,
+        "CPC": "0.44",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "setup box",
+        "Intent": "Commercial",
+        "Volume": 170,
+        "Difficulty": 33,
+        "CPC": "5.46",
+        "SERP": "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "television antenna installation near me",
+        "Intent": "Transactional",
+        "Volume": 140,
+        "Difficulty": 17,
+        "CPC": "1.39",
+        "SERP": "Reviews, Video, People also ask, Local pack, Related searches",
+        "Sources": [
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tv antenna installation service",
+        "Intent": "Commercial",
+        "Volume": 110,
+        "Difficulty": 21,
+        "CPC": "0",
+        "SERP": "Reviews, Video, People also ask, Local pack, Related searches",
+        "Sources": [
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "legal_safety_and_reviews",
+    "name": "IPTV Legality in USA, Reviews & Avoiding Scams",
+    "keywordCount": 319,
+    "totalVolume": 48820,
+    "topKeywords": [
+      {
+        "Keyword": "superbox reviews",
+        "Intent": "Commercial",
+        "Volume": 4400,
+        "Difficulty": 37,
+        "CPC": "2.01",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-box_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "tv reviews",
+        "Intent": "Commercial",
+        "Volume": 2900,
+        "Difficulty": 67,
+        "CPC": "0.46",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "wavemax reviews",
+        "Intent": "Commercial",
+        "Volume": 1600,
+        "Difficulty": 38,
+        "CPC": "0.24",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "superbox review",
+        "Intent": "Commercial",
+        "Volume": 1300,
+        "Difficulty": 39,
+        "CPC": "2.01",
+        "SERP": "AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources": [
+          "iptv-box_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "reviews of televisions",
+        "Intent": "Commercial",
+        "Volume": 1300,
+        "Difficulty": 68,
+        "CPC": "0.46",
+        "SERP": "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  },
+  {
+    "clusterId": "reseller_panel",
+    "name": "IPTV Reseller Panel & Business",
+    "keywordCount": 21,
+    "totalVolume": 3600,
+    "topKeywords": [
+      {
+        "Keyword": "iptv reseller",
+        "Intent": "Informational, Commercial",
+        "Volume": 880,
+        "Difficulty": 20,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller-panel_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "godaddy reseller",
+        "Intent": "Navigational, Transactional",
+        "Volume": 480,
+        "Difficulty": 35,
+        "CPC": "6.74",
+        "SERP": "Sitelinks, Reviews, Video, People also ask, Related searches",
+        "Sources": [
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "iptv reseller panel",
+        "Intent": "Informational, Commercial",
+        "Volume": 390,
+        "Difficulty": 14,
+        "CPC": "0",
+        "SERP": "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches",
+        "Sources": [
+          "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-box_all-keywords_us_2026-10-31.xlsx",
+          "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+          "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+          "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+          "iptv-player_all-keywords_us_2026-10-31.xlsx",
+          "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+          "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+          "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller-panel_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reseller_all-keywords_us_2026-10-31.xlsx",
+          "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+          "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+          "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+          "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+          "iptv-usa-free-trial_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "wholesale tvs",
+        "Intent": "Commercial",
+        "Volume": 390,
+        "Difficulty": 34,
+        "CPC": "1.54",
+        "SERP": "Sitelinks, AI Overview, Image, Video, Local pack, Related searches, Popular products",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      },
+      {
+        "Keyword": "wholesale televisions",
+        "Intent": "Informational, Commercial",
+        "Volume": 260,
+        "Difficulty": 32,
+        "CPC": "1.79",
+        "SERP": "Sitelinks, AI Overview, Video, People also ask, Local pack, Related searches",
+        "Sources": [
+          "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+          "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+        ]
+      }
+    ]
+  }
+]

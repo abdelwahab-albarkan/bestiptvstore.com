@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Homepage",
+    "route": "/",
+    "file": "src/app/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": true,
+    "hasTrialCta": true,
+    "hasMoneyBack": true,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Pricing & Plans",
+    "route": "/pricing",
+    "file": "src/app/pricing/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": true,
+    "hasTrialCta": false,
+    "hasMoneyBack": true,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "24h Free Trial",
+    "route": "/free-trial",
+    "file": "src/app/free-trial/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Channels Directory",
+    "route": "/channels",
+    "file": "src/app/channels/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Device Setup Hub",
+    "route": "/setup",
+    "file": "src/app/setup/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Firestick Setup",
+    "route": "/setup/firestick",
+    "file": "src/app/setup/firestick/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": true,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Roku Setup",
+    "route": "/setup/roku",
+    "file": "src/app/setup/roku/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Smart TV Setup",
+    "route": "/setup/smart-tv",
+    "file": "src/app/setup/smart-tv/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Android TV Setup",
+    "route": "/setup/android-tv",
+    "file": "src/app/setup/android-tv/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Apple TV Setup",
+    "route": "/setup/apple-tv",
+    "file": "src/app/setup/apple-tv/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "PC / Mac Setup",
+    "route": "/setup/pc-mac",
+    "file": "src/app/setup/pc-mac/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "MAG / Formuler Setup",
+    "route": "/setup/mag-formuler",
+    "file": "src/app/setup/mag-formuler/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "IPTV Apps Hub",
+    "route": "/apps",
+    "file": "src/app/apps/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": false,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "TiviMate Player",
+    "route": "/apps/tivimate",
+    "file": "src/app/apps/tivimate/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "IPTV Smarters Pro",
+    "route": "/apps/iptv-smarters-pro",
+    "file": "src/app/apps/iptv-smarters-pro/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "IBO Player",
+    "route": "/apps/ibo-player",
+    "file": "src/app/apps/ibo-player/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Troubleshooting Hub",
+    "route": "/troubleshooting",
+    "file": "src/app/troubleshooting/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": false,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Buffering Diagnostic",
+    "route": "/troubleshooting/iptv-buffering",
+    "file": "src/app/troubleshooting/iptv-buffering/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Reseller Business",
+    "route": "/reseller",
+    "file": "src/app/reseller/page.tsx",
+    "hasWhatsApp": false,
+    "hasEmail": false,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": false,
+    "hasBogusRatings": false
+  },
+  {
+    "name": "Contact & Support",
+    "route": "/contact",
+    "file": "src/app/contact/page.tsx",
+    "hasWhatsApp": true,
+    "hasEmail": true,
+    "hasPricing": false,
+    "hasTrialCta": true,
+    "hasMoneyBack": true,
+    "hasBogusRatings": false
+  }
+]

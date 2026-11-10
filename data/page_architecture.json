@@ -1,0 +1,397 @@
+[
+  {
+    "url": "/",
+    "title": "IPTVSubs8K - Premium 8K & 4K IPTV Service Provider in USA",
+    "intent": "Commercial / Transactional (Homepage)",
+    "primaryKeywords": [
+      "iptv service",
+      "best iptv service",
+      "iptv usa",
+      "8k iptv",
+      "best iptv service 2026",
+      "iptv service provider",
+      "iptv providers"
+    ],
+    "description": "Premier 8K & 4K IPTV subscription service in the USA with 25,000+ live HD/UHD channels, 120,000+ VODs, 99.9% anti-freeze server stability, and instant activation."
+  },
+  {
+    "url": "/pricing",
+    "title": "IPTV Subscription Plans & Pricing - IPTVSubs8K USA",
+    "intent": "Transactional (Pricing & Checkout)",
+    "primaryKeywords": [
+      "iptv subscription",
+      "iptv price in usa",
+      "iptv subscription price",
+      "iptv packages",
+      "iptv plans",
+      "iptv subscribe",
+      "buy iptv subscription"
+    ],
+    "description": "Compare transparent IPTV subscription plans: 1, 3, 6, 12, and 24 months. Fast setup, multi-connection options, 8K/4K UHD, and 7-day money-back guarantee."
+  },
+  {
+    "url": "/free-trial",
+    "title": "Free IPTV Trial 24 Hours - Test 8K & 4K Streaming Risk-Free",
+    "intent": "Commercial / Transactional (Lead Generation)",
+    "primaryKeywords": [
+      "iptv usa free trial",
+      "free iptv trial",
+      "iptv 24 hour free trial",
+      "smart iptv trial",
+      "best free iptv trial"
+    ],
+    "description": "Get an instant 24-hour IPTV free trial. Test 25,000+ live channels, 4K/8K sports streams, and anti-freeze reliability with zero commitment or credit card required."
+  },
+  {
+    "url": "/channels",
+    "title": "USA IPTV Channel List - Live Sports, Local News & 4K Entertainment",
+    "intent": "Informational / Commercial",
+    "primaryKeywords": [
+      "iptv local channels",
+      "iptv channels list usa",
+      "sports streaming sites",
+      "soccer streams reddit alternative",
+      "usa live tv channels"
+    ],
+    "description": "Explore the complete IPTVSubs8K channel lineup: all USA local channels (ABC, CBS, FOX, NBC), premium sports networks (ESPN, NFL, NBA, PPV), and 4K entertainment."
+  },
+  {
+    "url": "/reseller",
+    "title": "IPTV Reseller Panel & Program - Start Your IPTV Business",
+    "intent": "Commercial / Transactional (B2B Partner)",
+    "primaryKeywords": [
+      "iptv reseller",
+      "iptv reseller panel",
+      "best iptv reseller",
+      "iptv credits reseller",
+      "start iptv reseller business"
+    ],
+    "description": "Join the IPTVSubs8K reseller program. Get access to an advanced IPTV reseller panel, wholesale credit rates, sub-reseller creation, 99.9% uptime, and 24/7 dedicated support."
+  },
+  {
+    "url": "/setup",
+    "title": "IPTV Setup & Installation Hub - Complete Device Tutorials",
+    "intent": "Informational (Hub)",
+    "primaryKeywords": [
+      "how to install iptv",
+      "iptv installation",
+      "how to setup iptv",
+      "iptv setup guide",
+      "iptv devices compatibility"
+    ],
+    "description": "Step-by-step installation guides for every streaming device. Configure IPTV on Firestick, Android TV, Smart TV (Samsung/LG), Apple TV, PC, and MAG boxes."
+  },
+  {
+    "url": "/setup/firestick",
+    "title": "How to Install & Setup IPTV on Amazon Firestick / Fire TV (2026)",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "iptv firestick",
+      "how to install iptv on firestick",
+      "best iptv app for firestick",
+      "setup iptv fire tv stick",
+      "firestick iptv smarters"
+    ],
+    "description": "Comprehensive 2026 guide to installing IPTV on Amazon Firestick 4K Max and Fire TV Cube. Learn how to sideload IPTV Smarters Pro and TiviMate in under 5 minutes."
+  },
+  {
+    "url": "/setup/android-tv",
+    "title": "How to Setup IPTV on Android TV, Google TV & Android Boxes",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "iptv android tv",
+      "iptv on google tv",
+      "android tv box iptv",
+      "setup iptv nvidia shield",
+      "best android iptv player"
+    ],
+    "description": "Master Android TV and Google TV IPTV configuration. Full walkthrough for Nvidia Shield Pro, Chromecast with Google TV, and Android boxes with EPG guide setup."
+  },
+  {
+    "url": "/setup/smart-tv",
+    "title": "How to Install IPTV on Samsung & LG Smart TVs (Tizen & webOS)",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "iptv samsung tv",
+      "iptv lg tv",
+      "smart iptv samsung",
+      "install iptv on smart tv",
+      "ibo player samsung smart tv"
+    ],
+    "description": "Easily set up IPTV on Samsung Tizen and LG webOS Smart TVs using IBO Player, Smart IPTV, and Nanomid without needing an external streaming stick."
+  },
+  {
+    "url": "/setup/apple-tv",
+    "title": "How to Setup IPTV on Apple TV 4K, iPhone & iPad (iOS/tvOS)",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "iptv apple tv",
+      "best iptv app apple tv 4k",
+      "iptv for ios",
+      "iptv iphone ipad setup",
+      "apple tv iptv player"
+    ],
+    "description": "Step-by-step tutorial to configure IPTV on Apple TV 4K, iPhone, and iPad using top App Store players like IPTV Smarters, GSE Smart IPTV, and UHF."
+  },
+  {
+    "url": "/setup/pc-mac",
+    "title": "How to Watch IPTV on Windows PC & Mac (VLC & Desktop Apps)",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "iptv for pc",
+      "iptv windows 11",
+      "iptv mac os",
+      "how to watch iptv on vlc",
+      "iptv smarters pro windows"
+    ],
+    "description": "Complete guide for streaming IPTV on Windows 10/11 PCs and Apple macOS computers via VLC Media Player, M3U streams, and native desktop clients."
+  },
+  {
+    "url": "/setup/mag-formuler",
+    "title": "How to Setup IPTV on MAG & Formuler Boxes (Portal URL / Stalker)",
+    "intent": "Informational (Tutorial)",
+    "primaryKeywords": [
+      "mag box iptv",
+      "formuler iptv box",
+      "setup iptv on mag 254 322 524",
+      "formuler mol2 setup",
+      "iptv stalker portal url"
+    ],
+    "description": "Learn how to configure MAG 254/322/524 and Formuler Z11 boxes using MAC address portal URLs, Stalker middleware, and MyTVOnline 2/3."
+  },
+  {
+    "url": "/setup/roku",
+    "title": "How to Use IPTV on Roku TV & Roku Streaming Stick (2026 Guide)",
+    "intent": "Informational (Workaround Guide)",
+    "primaryKeywords": [
+      "iptv app roku",
+      "iptv roku tv",
+      "can you get iptv on roku",
+      "iptv smarters roku",
+      "stream iptv to roku"
+    ],
+    "description": "Realistic, honest guide on Roku TV limitations and verified workarounds for streaming IPTV via screen mirroring, Cast Web Video, and external media players."
+  },
+  {
+    "url": "/apps",
+    "title": "Best IPTV Players & Streaming Apps for 2026 - Comprehensive Guide",
+    "intent": "Commercial / Informational (Hub)",
+    "primaryKeywords": [
+      "iptv player",
+      "best iptv player",
+      "best iptv apps",
+      "top iptv application",
+      "m3u playlist player"
+    ],
+    "description": "In-depth comparison of the best IPTV players in 2026: TiviMate, IPTV Smarters Pro, IBO Player, XCIPTV, and Kodi with speed, EPG, and recording benchmarks."
+  },
+  {
+    "url": "/apps/iptv-smarters-pro",
+    "title": "IPTV Smarters Pro Setup & Download Guide for Firestick, Android & iOS",
+    "intent": "Informational (App Review & Guide)",
+    "primaryKeywords": [
+      "iptv smarters",
+      "iptv smarters pro apk",
+      "iptv smarters plus",
+      "how to setup iptv smarters pro",
+      "smarters pro xtream codes"
+    ],
+    "description": "Download, install, and configure IPTV Smarters Pro with Xtream Codes API or M3U playlist. Discover multi-screen, EPG, parental controls, and catch-up TV features."
+  },
+  {
+    "url": "/apps/tivimate",
+    "title": "TiviMate IPTV Player Review & Premium Setup Walkthrough (2026)",
+    "intent": "Commercial / Informational (App Review)",
+    "primaryKeywords": [
+      "tivimate",
+      "tivimate premium",
+      "tivimate companion",
+      "tivimate iptv player setup",
+      "tivimate vs iptv smarters"
+    ],
+    "description": "Why TiviMate is the ultimate Android TV & Firestick IPTV player. Full guide on unlocking TiviMate Premium, adding EPG TV guides, and managing multi-playlists."
+  },
+  {
+    "url": "/apps/ibo-player",
+    "title": "IBO Player Setup Guide - Best IPTV App for Samsung & LG Smart TVs",
+    "intent": "Informational (App Guide)",
+    "primaryKeywords": [
+      "ibo player",
+      "ibo player setup",
+      "ibo player device id mac",
+      "ibo player activation",
+      "ibo player smart tv"
+    ],
+    "description": "How to install and activate IBO Player on Samsung Tizen and LG webOS. Step-by-step instructions to upload your M3U playlist and EPG via MAC address and Device Key."
+  },
+  {
+    "url": "/apps/xciptv",
+    "title": "XCIPTV Player Setup Guide - Modern Dual-Player IPTV Interface",
+    "intent": "Informational (App Guide)",
+    "primaryKeywords": [
+      "xciptv",
+      "xciptv player apk",
+      "xciptv setup",
+      "xciptv vs iptv smarters",
+      "download xciptv android"
+    ],
+    "description": "Complete tutorial on setting up XCIPTV Player on Android and Firestick with built-in ExoPlayer, VLC engine, backup/restore, and interactive TV guide."
+  },
+  {
+    "url": "/apps/kodi",
+    "title": "How to Setup IPTV on Kodi using PVR IPTV Simple Client",
+    "intent": "Informational (App Guide)",
+    "primaryKeywords": [
+      "kodi iptv",
+      "kodi iptv simple client",
+      "kodi pvr iptv",
+      "how to watch iptv on kodi",
+      "best kodi iptv setup"
+    ],
+    "description": "Configure PVR IPTV Simple Client on Kodi 21 Omega. Input your M3U playlist URL, XMLTV EPG guide, and stream high-definition live channels effortlessly."
+  },
+  {
+    "url": "/troubleshooting",
+    "title": "IPTV Troubleshooting Hub - Fix Buffering, Freezing & Connection Issues",
+    "intent": "Informational (Support Hub)",
+    "primaryKeywords": [
+      "iptv buffering",
+      "iptv not working",
+      "iptv freezing",
+      "iptv connection error",
+      "how to stop iptv buffering"
+    ],
+    "description": "Expert diagnostics and proven solutions for IPTV streaming issues: stop buffering, resolve ISP throttling, fix EPG errors, and optimize cache settings."
+  },
+  {
+    "url": "/troubleshooting/iptv-buffering",
+    "title": "How to Stop IPTV Buffering & Freezing: 7 Proven Fixes (2026 Guide)",
+    "intent": "Informational (Troubleshooting)",
+    "primaryKeywords": [
+      "iptv buffering",
+      "how to stop iptv buffering",
+      "iptv keeps freezing",
+      "iptv lagging",
+      "iptv buffering fix"
+    ],
+    "description": "Eliminate stutter and freezing in your IPTV stream. Learn how to optimize buffer cache, bypass ISP bandwidth throttling with VPN, and improve Wi-Fi connectivity."
+  },
+  {
+    "url": "/troubleshooting/iptv-not-working",
+    "title": "IPTV Not Working? Step-by-Step Fixes for Black Screens & Errors",
+    "intent": "Informational (Troubleshooting)",
+    "primaryKeywords": [
+      "iptv not working",
+      "iptv black screen",
+      "iptv playlist authorization error",
+      "iptv error 404",
+      "why is my iptv down"
+    ],
+    "description": "Troubleshoot non-responsive IPTV feeds, authorization errors, DNS resolution failures, and expired playlist tokens with our actionable diagnostic checklist."
+  },
+  {
+    "url": "/troubleshooting/vpn-isp-throttling",
+    "title": "Best VPN for IPTV & How to Bypass ISP Throttling in the USA",
+    "intent": "Commercial / Informational",
+    "primaryKeywords": [
+      "vpn for iptv",
+      "best vpn for iptv",
+      "isp throttling iptv",
+      "do i need a vpn for iptv",
+      "vpn for firestick iptv"
+    ],
+    "description": "Discover why US Internet providers throttle streaming speeds during live sports events and how a fast WireGuard VPN unblocks full 8K bandwidth and preserves privacy."
+  },
+  {
+    "url": "/guides/is-iptv-legal-usa",
+    "title": "Is IPTV Legal in the USA? 2026 Legal & Safety Guide for Consumers",
+    "intent": "Informational (Authority / Legal)",
+    "primaryKeywords": [
+      "iptv legal usa",
+      "is iptv legal in the usa",
+      "is iptv legal in united states",
+      "iptv laws us",
+      "is buying iptv illegal"
+    ],
+    "description": "Authoritative, factual analysis of IPTV legality under United States copyright law, Title 17, FCC guidelines, protecting consumer rights, and avoiding illegitimate illicit services."
+  },
+  {
+    "url": "/guides/iptv-scams-guide",
+    "title": "IPTV Scams: How to Spot Fake Providers & Protect Your Payment",
+    "intent": "Informational / Commercial (Buyer Protection)",
+    "primaryKeywords": [
+      "iptv scams",
+      "iptv scam red flags",
+      "safe iptv providers",
+      "iptv fake reviews",
+      "how to avoid iptv scams"
+    ],
+    "description": "Protect your money and privacy from rogue IPTV sellers. Identify common scam tactics like untraceable crypto-only payments, fake reviews, and disappearing servers."
+  },
+  {
+    "url": "/compare/cable-vs-iptv",
+    "title": "Cable TV vs IPTV: Complete Cost, Channel & Quality Comparison",
+    "intent": "Commercial / Informational (Buyer Decision)",
+    "primaryKeywords": [
+      "cable vs iptv",
+      "iptv vs cable cost",
+      "cut the cord cable tv iptv",
+      "cable television vs streaming",
+      "cheapest live tv streaming"
+    ],
+    "description": "Detailed financial and feature breakdown comparing traditional US cable TV packages ($120-$200/mo) against modern high-performance IPTV streaming ($10-$15/mo)."
+  },
+  {
+    "url": "/guides/best-iptv-providers-usa",
+    "title": "Best IPTV Providers in USA (2026 Tested & Reviewed)",
+    "intent": "Commercial / Buyer Guide",
+    "primaryKeywords": [
+      "best iptv provider",
+      "best iptv providers usa",
+      "iptv reviews",
+      "top rated iptv",
+      "reliable iptv provider us"
+    ],
+    "description": "Independent evaluation of the best IPTV services for American households. Scored across stream uptime, local channel availability, 4K/8K sports coverage, and customer support."
+  },
+  {
+    "url": "/contact",
+    "title": "Contact IPTVSubs8K Support - 24/7 Technical Assistance & Inquiries",
+    "intent": "Navigational / Transactional",
+    "primaryKeywords": [
+      "iptv support",
+      "iptv customer service",
+      "iptv live chat",
+      "iptv technical assistance"
+    ],
+    "description": "Need help with setup, channel activation, or trial credentials? Contact our dedicated 24/7 technical support team via live chat, ticket, or email."
+  },
+  {
+    "url": "/privacy",
+    "title": "Privacy Policy - IPTVSubs8K Data Protection",
+    "intent": "Informational / Trust",
+    "primaryKeywords": [
+      "iptv privacy policy"
+    ],
+    "description": "Learn how IPTVSubs8K protects your personal information, enforces strict zero-logging policies, and secures all checkout communications with SSL encryption."
+  },
+  {
+    "url": "/terms",
+    "title": "Terms of Service - IPTVSubs8K",
+    "intent": "Informational / Trust",
+    "primaryKeywords": [
+      "iptv terms of service"
+    ],
+    "description": "Read the IPTVSubs8K terms of service, subscription policies, fair usage guidelines, and service level commitments."
+  },
+  {
+    "url": "/refund-policy",
+    "title": "Refund Policy & 7-Day Money-Back Guarantee - IPTVSubs8K",
+    "intent": "Commercial / Trust",
+    "primaryKeywords": [
+      "iptv refund policy",
+      "iptv money back guarantee"
+    ],
+    "description": "Our transparent 7-day money-back guarantee policy. Review eligibility guidelines and fast processing steps for full purchase confidence."
+  }
+]

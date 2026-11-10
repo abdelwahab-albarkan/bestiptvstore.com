@@ -1,0 +1,1218 @@
+[
+    {
+        "Keyword":  "best tv",
+        "Intent":  "Commercial",
+        "Volume":  1500000,
+        "Difficulty":  71,
+        "CPC":  "0.4",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  450000,
+        "Difficulty":  35,
+        "CPC":  "0.37",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Knowledge panel, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best tvs",
+        "Intent":  "Commercial",
+        "Volume":  450000,
+        "Difficulty":  75,
+        "CPC":  "0.44",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku tv",
+        "Intent":  "Navigational, Commercial",
+        "Volume":  246000,
+        "Difficulty":  47,
+        "CPC":  "0.47",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku login",
+        "Intent":  "Navigational, Transactional",
+        "Volume":  201000,
+        "Difficulty":  69,
+        "CPC":  "2.06",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku channel",
+        "Intent":  "Navigational, Transactional",
+        "Volume":  165000,
+        "Difficulty":  77,
+        "CPC":  "1.85",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Top stories, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku stick",
+        "Intent":  "Informational, Commercial",
+        "Volume":  110000,
+        "Difficulty":  46,
+        "CPC":  "0.27",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "superbox",
+        "Intent":  "Navigational, Commercial",
+        "Volume":  90500,
+        "Difficulty":  49,
+        "CPC":  "1.03",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smart tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  74000,
+        "Difficulty":  56,
+        "CPC":  "0.28",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "shop 4k tvs on sale",
+        "Intent":  "Transactional",
+        "Volume":  60500,
+        "Difficulty":  50,
+        "CPC":  "0",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Local pack, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tvs",
+        "Intent":  "Informational, Commercial",
+        "Volume":  49500,
+        "Difficulty":  50,
+        "CPC":  "0.37",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, Video carousel, People also ask, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best budget 4k tvs",
+        "Intent":  "Commercial",
+        "Volume":  40500,
+        "Difficulty":  56,
+        "CPC":  "0.47",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "the tv app.to",
+        "Intent":  "Informational, Commercial",
+        "Volume":  33100,
+        "Difficulty":  37,
+        "CPC":  "1.79",
+        "SERP":  "AI Overview, Reviews, Video, People also ask",
+        "Sources":  [
+                        "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv for sale",
+        "Intent":  "Transactional",
+        "Volume":  33100,
+        "Difficulty":  54,
+        "CPC":  "0.39",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv for on sale",
+        "Intent":  "Transactional",
+        "Volume":  33100,
+        "Difficulty":  51,
+        "CPC":  "0.26",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "firestick remote",
+        "Intent":  "Commercial",
+        "Volume":  33100,
+        "Difficulty":  30,
+        "CPC":  "0.91",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, Short videos, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-android-tv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv a smart",
+        "Intent":  "Informational, Commercial",
+        "Volume":  33100,
+        "Difficulty":  59,
+        "CPC":  "0.28",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smart tv smart tv smart tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  33100,
+        "Difficulty":  61,
+        "CPC":  "0.28",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image pack, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "32 inch tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  33100,
+        "Difficulty":  43,
+        "CPC":  "0.2",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "60 inch tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  33100,
+        "Difficulty":  43,
+        "CPC":  "0.24",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best best buy tvs",
+        "Intent":  "Commercial",
+        "Volume":  27100,
+        "Difficulty":  32,
+        "CPC":  "0.23",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku tv remote",
+        "Intent":  "Informational, Transactional",
+        "Volume":  27100,
+        "Difficulty":  50,
+        "CPC":  "0.85",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tvs on sale",
+        "Intent":  "Transactional",
+        "Volume":  27100,
+        "Difficulty":  50,
+        "CPC":  "0.26",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "attacker tv",
+        "Intent":  "Commercial",
+        "Volume":  27100,
+        "Difficulty":  28,
+        "CPC":  "0",
+        "SERP":  "AI Overview, Image, Related searches",
+        "Sources":  [
+                        "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "super box",
+        "Intent":  "Commercial",
+        "Volume":  27100,
+        "Difficulty":  38,
+        "CPC":  "1.07",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "satellite television packages",
+        "Intent":  "Commercial",
+        "Volume":  22200,
+        "Difficulty":  48,
+        "CPC":  "2.1",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "antennas antenna",
+        "Intent":  "Informational, Commercial",
+        "Volume":  22200,
+        "Difficulty":  57,
+        "CPC":  "0",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, Video carousel, People also ask, Related searches, Popular products, Things to know",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku streaming stick",
+        "Intent":  "Informational, Commercial",
+        "Volume":  22200,
+        "Difficulty":  36,
+        "CPC":  "0.22",
+        "SERP":  "AI Overview, Image, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku customer service number",
+        "Intent":  "Navigational, Transactional",
+        "Volume":  22200,
+        "Difficulty":  62,
+        "CPC":  "2.22",
+        "SERP":  "Video, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "60 inch tele",
+        "Intent":  "Commercial",
+        "Volume":  22200,
+        "Difficulty":  41,
+        "CPC":  "0.24",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "fire tv remote",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  40,
+        "CPC":  "0.81",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-android-tv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best for tv",
+        "Intent":  "Commercial",
+        "Volume":  18100,
+        "Difficulty":  69,
+        "CPC":  "0.44",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv on sale",
+        "Intent":  "Transactional",
+        "Volume":  18100,
+        "Difficulty":  48,
+        "CPC":  "0.4",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv sales",
+        "Intent":  "Transactional",
+        "Volume":  18100,
+        "Difficulty":  46,
+        "CPC":  "0.38",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv beste",
+        "Intent":  "Commercial",
+        "Volume":  18100,
+        "Difficulty":  68,
+        "CPC":  "0.44",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best tv brands",
+        "Intent":  "Commercial",
+        "Volume":  18100,
+        "Difficulty":  57,
+        "CPC":  "0.31",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "flat screen tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  45,
+        "CPC":  "0.2",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "television application",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  79,
+        "CPC":  "1.64",
+        "SERP":  "AI Overview, Reviews, Video, Video carousel, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku streaming stick 4k",
+        "Intent":  "Informational, Transactional",
+        "Volume":  18100,
+        "Difficulty":  46,
+        "CPC":  "0.4",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku sign in",
+        "Intent":  "Navigational, Transactional",
+        "Volume":  18100,
+        "Difficulty":  50,
+        "CPC":  "1.71",
+        "SERP":  "AI Overview, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "free tv apps",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  41,
+        "CPC":  "0.73",
+        "SERP":  "AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "streaming tv services",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  92,
+        "CPC":  "1.41",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "antenna tv antenna tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  59,
+        "CPC":  "0.25",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Discussions and forums, Related searches, Things to know",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "indoor tv antenna indoor",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  40,
+        "CPC":  "0.32",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku ultra",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  53,
+        "CPC":  "0.42",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "portable tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  18100,
+        "Difficulty":  41,
+        "CPC":  "0.47",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "4k tv smart tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  14800,
+        "Difficulty":  47,
+        "CPC":  "0.29",
+        "SERP":  "Sitelinks, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "screen flat tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  14800,
+        "Difficulty":  42,
+        "CPC":  "0.26",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "digital tv antenna",
+        "Intent":  "Informational, Commercial",
+        "Volume":  14800,
+        "Difficulty":  61,
+        "CPC":  "0.25",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products, Things to know",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "the tv app to",
+        "Intent":  "Informational, Commercial",
+        "Volume":  14800,
+        "Difficulty":  37,
+        "CPC":  "1.95",
+        "SERP":  "AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches",
+        "Sources":  [
+                        "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv box and",
+        "Intent":  "Informational, Commercial",
+        "Volume":  14800,
+        "Difficulty":  44,
+        "CPC":  "0.6",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku account login",
+        "Intent":  "Navigational, Transactional",
+        "Volume":  14800,
+        "Difficulty":  65,
+        "CPC":  "2.06",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv and sales",
+        "Intent":  "Transactional",
+        "Volume":  14800,
+        "Difficulty":  33,
+        "CPC":  "0.38",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "soccer streams reddit",
+        "Intent":  "Commercial",
+        "Volume":  12100,
+        "Difficulty":  25,
+        "CPC":  "0.00",
+        "SERP":  "Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+                    ]
+    },
+    {
+        "Keyword":  "best makes of tv",
+        "Intent":  "Commercial",
+        "Volume":  12100,
+        "Difficulty":  72,
+        "CPC":  "0.22",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv and box",
+        "Intent":  "Informational, Commercial",
+        "Volume":  12100,
+        "Difficulty":  42,
+        "CPC":  "0.71",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image pack, Video, People also ask, Discussions and forums, Related searches",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "cinemahd",
+        "Intent":  "Commercial",
+        "Volume":  12100,
+        "Difficulty":  8,
+        "CPC":  "1.15",
+        "SERP":  "AI Overview, Image pack, People also ask, Related searches",
+        "Sources":  [
+                        "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "indoor tv antenna",
+        "Intent":  "Commercial",
+        "Volume":  12100,
+        "Difficulty":  42,
+        "CPC":  "0.3",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku streaming device",
+        "Intent":  "Navigational, Commercial",
+        "Volume":  12100,
+        "Difficulty":  69,
+        "CPC":  "0.23",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv deals smart",
+        "Intent":  "Informational, Commercial",
+        "Volume":  12100,
+        "Difficulty":  49,
+        "CPC":  "0.31",
+        "SERP":  "Sitelinks, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "televisores televisores",
+        "Intent":  "Informational, Commercial",
+        "Volume":  12100,
+        "Difficulty":  35,
+        "CPC":  "1.8",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "cheap tv",
+        "Intent":  "Commercial",
+        "Volume":  12100,
+        "Difficulty":  50,
+        "CPC":  "0.42",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku streaming media stick+",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  48,
+        "CPC":  "0.38",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku remote online",
+        "Intent":  "Informational, Transactional",
+        "Volume":  9900,
+        "Difficulty":  42,
+        "CPC":  "0.82",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku box",
+        "Intent":  "Navigational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  69,
+        "CPC":  "0.24",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "abox android tv",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  33,
+        "CPC":  "0.2",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best indoor tv antenna",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  52,
+        "CPC":  "0.27",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "80 inch hdtv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  36,
+        "CPC":  "0.29",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "good indoor tv aerial",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  57,
+        "CPC":  "0.27",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "digital antenna",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  64,
+        "CPC":  "0.24",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Video, Video carousel, People also ask, Related searches, Popular products, Things to know",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tvs for sale",
+        "Intent":  "Transactional",
+        "Volume":  9900,
+        "Difficulty":  51,
+        "CPC":  "0.4",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, People also ask, Local pack, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "what\u0027s a good tv brand",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  49,
+        "CPC":  "0.31",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "90 inch tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  49,
+        "CPC":  "0.23",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smart tvs",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  50,
+        "CPC":  "0.28",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "top tv application",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  32,
+        "CPC":  "1.36",
+        "SERP":  "AI Overview, Reviews, Video, Video carousel, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-player_all-keywords_us_2026-10-31.xlsx",
+                        "ultra-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "reddit soccer stream",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  28,
+        "CPC":  "0.00",
+        "SERP":  "Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-providers-usa_all-keywords_us_2026-10-31.csv"
+                    ]
+    },
+    {
+        "Keyword":  "tv app free",
+        "Intent":  "Commercial",
+        "Volume":  9900,
+        "Difficulty":  44,
+        "CPC":  "0.73",
+        "SERP":  "AI Overview, Reviews, Video, People also ask, Related searches",
+        "Sources":  [
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smarttv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  70,
+        "CPC":  "0.28",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "sports streaming sites",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  11,
+        "CPC":  "1.8",
+        "SERP":  "AI Overview, Reviews, Video, People also ask, Discussions and forums, Related searches",
+        "Sources":  [
+                        "iptv-streaming_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "box tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  41,
+        "CPC":  "1.21",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv box",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  37,
+        "CPC":  "0.6",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "iptv service",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  28,
+        "CPC":  "0",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Discussions and forums, Related searches",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "best-iptv-provider_all-keywords_us_2026-10-31.xlsx",
+                        "how-to-install-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-android-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-buffering_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-installation_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-packages_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-plans_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-player_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-price-in-usa_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-providers-usa_all-keywords_us_2026-10-31.csv",
+                        "iptv-provider_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-streaming_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-subscribe_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-subscription-price_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-subscription_all-keywords_us_2026-10-31.xlsx",
+                        "kodi-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "m3u-playlist-player_all-keywords_us_2026-10-31.xlsx",
+                        "smart-iptv-trial_all-keywords_us_2026-10-31.xlsx",
+                        "ultra-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "usa-iptv-subscription_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "boxes for tv streaming",
+        "Intent":  "Informational, Commercial",
+        "Volume":  9900,
+        "Difficulty":  50,
+        "CPC":  "0.76",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "small smart tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  35,
+        "CPC":  "0.18",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "cheapest live tv streaming",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  66,
+        "CPC":  "1.2",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Discussions and forums, Related searches",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-legal-usa_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-reviews_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-samsung-tv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-scams_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku smart tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  52,
+        "CPC":  "0.31",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv near me",
+        "Intent":  "Transactional",
+        "Volume":  8100,
+        "Difficulty":  50,
+        "CPC":  "0.68",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Local pack, Related searches",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smart tvs on sale",
+        "Intent":  "Transactional",
+        "Volume":  8100,
+        "Difficulty":  46,
+        "CPC":  "0.31",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "smart tv deals",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  47,
+        "CPC":  "0.33",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "roku tv stick",
+        "Intent":  "Informational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  41,
+        "CPC":  "0.23",
+        "SERP":  "Sitelinks, AI Overview, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "rokutv",
+        "Intent":  "Navigational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  78,
+        "CPC":  "0.47",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "ruku tv",
+        "Intent":  "Informational, Transactional",
+        "Volume":  8100,
+        "Difficulty":  76,
+        "CPC":  "0.47",
+        "SERP":  "Sitelinks, AI Overview, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-app-roku_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best tv antenna",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  57,
+        "CPC":  "0.29",
+        "SERP":  "Sitelinks, AI Overview, Image, Image pack, Video, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "great tv antennas",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  15,
+        "CPC":  "0.29",
+        "SERP":  "AI Overview, Image, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tvbox",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  42,
+        "CPC":  "0.6",
+        "SERP":  "Sitelinks, AI Overview, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "streaming box",
+        "Intent":  "Informational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  40,
+        "CPC":  "0.75",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, Video carousel, People also ask, Discussions and forums, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "streaming devices",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  49,
+        "CPC":  "0.32",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "4k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-box_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx",
+                        "iptv-smarters_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "tv antenna indoor",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  46,
+        "CPC":  "0.32",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, Video carousel, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "iptv-local-channels_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "45 inch tv",
+        "Intent":  "Informational, Commercial",
+        "Volume":  8100,
+        "Difficulty":  28,
+        "CPC":  "0.26",
+        "SERP":  "Sitelinks, AI Overview, Image, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    },
+    {
+        "Keyword":  "best 65 inch tv",
+        "Intent":  "Commercial",
+        "Volume":  8100,
+        "Difficulty":  57,
+        "CPC":  "0.45",
+        "SERP":  "Sitelinks, AI Overview, Reviews, Image, Image pack, Video, People also ask, Related searches, Popular products",
+        "Sources":  [
+                        "8k-iptv_all-keywords_us_2026-10-31.xlsx",
+                        "strong-iptv_all-keywords_us_2026-10-31.xlsx"
+                    ]
+    }
+]

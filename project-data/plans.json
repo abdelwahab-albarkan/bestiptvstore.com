@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3-months",
+    "name": "3 Months",
+    "duration": "90 Days",
+    "months": 3,
+    "price": 39.99,
+    "monthlyEquivalent": 13.33,
+    "savingsPercent": 0,
+    "isPopular": false,
+    "isBestValue": false,
+    "connections": 1,
+    "pricesByAccounts": {
+      "1": 39.99,
+      "2": 59.99,
+      "3": 79.99,
+      "4": 99.99
+    },
+    "checkoutUrlsByAccounts": {
+      "1": "https://todedev.com/buy/3-months-1-account",
+      "2": "https://todedev.com/buy/3-months-2-accounts",
+      "3": "https://todedev.com/buy/3-months-3-accounts",
+      "4": "https://todedev.com/buy/3-months-4-accounts"
+    },
+    "features": [
+      "+40,000 Live TV Channels",
+      "+200,000 VODs",
+      "TV Guide (EPG)",
+      "M3U & Xtream Code",
+      "Ultra 8K / 4K / HD / SD",
+      "+100,000 Series",
+      "99.9% Uptime Server",
+      "AntiFreeze Technology™",
+      "Works on Any Device"
+    ],
+    "deliveryNote": "Instant 3-Min Delivery"
+  },
+  {
+    "id": "6-months",
+    "name": "6 Months",
+    "duration": "180 Days",
+    "months": 6,
+    "price": 56.99,
+    "monthlyEquivalent": 9.5,
+    "savingsPercent": 29,
+    "isPopular": true,
+    "isBestValue": false,
+    "connections": 1,
+    "pricesByAccounts": {
+      "1": 56.99,
+      "2": 84.99,
+      "3": 109.99,
+      "4": 134.99
+    },
+    "checkoutUrlsByAccounts": {
+      "1": "https://todedev.com/buy/6-months-1-account",
+      "2": "https://todedev.com/buy/6-months-2-accounts",
+      "3": "https://todedev.com/buy/6-months-3-accounts",
+      "4": "https://todedev.com/buy/6-months-4-accounts"
+    },
+    "features": [
+      "+40,000 Live TV Channels",
+      "+200,000 VODs",
+      "TV Guide (EPG)",
+      "M3U & Xtream Code",
+      "Ultra 8K / 4K / HD / SD",
+      "+100,000 Series",
+      "99.9% Uptime Server",
+      "AntiFreeze Technology™",
+      "Works on Any Device"
+    ],
+    "deliveryNote": "Instant 3-Min Delivery"
+  },
+  {
+    "id": "12-months",
+    "name": "12 Months",
+    "duration": "360 Days",
+    "months": 12,
+    "price": 79.99,
+    "monthlyEquivalent": 6.67,
+    "savingsPercent": 50,
+    "isPopular": true,
+    "isBestValue": true,
+    "connections": 1,
+    "pricesByAccounts": {
+      "1": 79.99,
+      "2": 119.99,
+      "3": 149.99,
+      "4": 179.99
+    },
+    "checkoutUrlsByAccounts": {
+      "1": "https://todedev.com/buy/12-months-1-account",
+      "2": "https://todedev.com/buy/12-months-2-accounts",
+      "3": "https://todedev.com/buy/12-months-3-accounts",
+      "4": "https://todedev.com/buy/12-months-4-accounts"
+    },
+    "features": [
+      "+40,000 Live TV Channels",
+      "+200,000 VODs",
+      "TV Guide (EPG)",
+      "M3U & Xtream Code",
+      "Ultra 8K / 4K / HD / SD",
+      "+100,000 Series",
+      "99.9% Uptime Server",
+      "AntiFreeze Technology™",
+      "Works on Any Device"
+    ],
+    "deliveryNote": "Instant 3-Min Delivery"
+  }
+]

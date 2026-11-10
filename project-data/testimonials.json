@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Marcus Vance",
+    "location": "Austin, Texas",
+    "avatar": "/images/revriw/avatars/avatar-1.webp",
+    "rating": 5,
+    "device": "Firestick 4K Max + TiviMate",
+    "date": "October 24, 2026",
+    "title": "Cut my $185 Comcast bill immediately",
+    "comment": "I was paying $185 every single month to Comcast Xfinity just to watch NFL games and local news. Switched to IPTVSubs8K on my Firestick with TiviMate and the quality is crystal clear 4K with zero lag. Literally saves me over $1,500 every year.",
+    "verified": true
+  },
+  {
+    "id": "rev-2",
+    "name": "Sarah Jenkins",
+    "location": "Tampa, Florida",
+    "avatar": "/images/revriw/avatars/avatar-2.webp",
+    "rating": 5,
+    "device": "Samsung Smart TV (IBO Player)",
+    "date": "October 19, 2026",
+    "title": "Setup took 3 minutes on my Samsung TV",
+    "comment": "I was nervous about having to buy extra streaming sticks, but their tutorial for IBO Player on Samsung Tizen was so simple. Uploaded my playlist via MAC address and immediately had +40,000 channels. The EPG guide works great.",
+    "verified": true
+  },
+  {
+    "id": "rev-3",
+    "name": "David Kowalski",
+    "location": "Chicago, Illinois",
+    "avatar": "/images/revriw/avatars/avatar-3.webp",
+    "rating": 5,
+    "device": "Nvidia Shield TV Pro",
+    "date": "October 12, 2026",
+    "title": "Anti-Freeze 9.2 is real during Sunday football",
+    "comment": "Most providers freeze the second a big game starts. IPTVSubs8K didn't stutter once during the entire NFL Sunday slate. Running on my Nvidia Shield with gigabit ethernet—flawless 60FPS stream.",
+    "verified": true
+  }
+]
