@@ -2,8 +2,8 @@
 
 - **Name:** IPTVSubs8K
 - **Legal Entity:** IPTVSubs8K Streaming Media LLC
-- **Domain:** bestiptvstore.com
-- **URL:** https://bestiptvstore.com
+- **Domain:** iptvprostar.com
+- **URL:** https://iptvprostar.com
 - **Target Market:** United States (en-US, USD)
 - **Tagline:** Premium 8K & 4K IPTV Service Provider in the USA
 - **Short Description:** The highest-rated IPTV service in the United States. Stream 25,000+ live HD, 4K & 8K channels, 120,000+ VOD movies and series, local US networks, and premium live sports with 99.9% Anti-Freeze™ stability.

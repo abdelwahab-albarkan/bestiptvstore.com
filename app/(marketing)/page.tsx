@@ -25,7 +25,7 @@ import { SITE } from '@/lib/data/site';
 export const revalidate = 3600;
 
 export const metadata: Metadata = buildMetadata({
-  title: 'Best IPTV USA (2026) | Premium 4K & 8K Subscription — BestIPTVUSA4K',
+  title: `Best IPTV USA (2026) | Premium 4K & 8K Subscription — ${SITE.name}`,
   description: 'Best IPTV USA service with 40,000+ live channels & uncompressed 4K sports. Instant 24-hour free trial with 99.9% anti-freeze stability.',
   path: '/',
 });

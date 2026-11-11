@@ -148,7 +148,7 @@ export function HomeSeoContent() {
                 <tr className="border-b border-slate-800 bg-slate-900/90 text-slate-200">
                   <th className="py-4 px-6 font-bold text-base">Feature / Capability</th>
                   <th className="py-4 px-6 font-bold text-base text-emerald-400 bg-emerald-950/20">
-                    BestIPTVUSA4K (Our Service)
+                    IPTVProStar (Our Service)
                   </th>
                   <th className="py-4 px-6 font-bold text-base text-slate-400">
                     US Cable TV (Xfinity / Spectrum)

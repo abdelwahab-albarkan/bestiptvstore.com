@@ -36,14 +36,14 @@ describe('SEO Metadata & Canonical Utility Tests', () => {
 
   describe('getCanonicalUrl', () => {
     it('generates clean root canonical pointing to SITE.url', () => {
-      expect(getCanonicalUrl('/')).toBe('https://bestiptvstore.com');
-      expect(getCanonicalUrl('')).toBe('https://bestiptvstore.com');
+      expect(getCanonicalUrl('/')).toBe('https://iptvprostar.com');
+      expect(getCanonicalUrl('')).toBe('https://iptvprostar.com');
     });
 
     it('generates absolute canonical URL with no trailing slashes or queries', () => {
-      expect(getCanonicalUrl('/pricing/')).toBe('https://bestiptvstore.com/pricing');
-      expect(getCanonicalUrl('/pricing?gclid=123')).toBe('https://bestiptvstore.com/pricing');
-      expect(getCanonicalUrl('/best-iptv-usa-firestick/')).toBe('https://bestiptvstore.com/best-iptv-usa-firestick');
+      expect(getCanonicalUrl('/pricing/')).toBe('https://iptvprostar.com/pricing');
+      expect(getCanonicalUrl('/pricing?gclid=123')).toBe('https://iptvprostar.com/pricing');
+      expect(getCanonicalUrl('/best-iptv-usa-firestick/')).toBe('https://iptvprostar.com/best-iptv-usa-firestick');
     });
   });
 
@@ -55,8 +55,8 @@ describe('SEO Metadata & Canonical Utility Tests', () => {
         path: '/pricing?foo=bar',
       });
 
-      expect(meta.alternates?.canonical).toBe('https://bestiptvstore.com/pricing');
-      expect(meta.openGraph?.url).toBe('https://bestiptvstore.com/pricing');
+      expect(meta.alternates?.canonical).toBe('https://iptvprostar.com/pricing');
+      expect(meta.openGraph?.url).toBe('https://iptvprostar.com/pricing');
       expect(meta.robots).toMatchObject({
         index: true,
         follow: true,
@@ -85,8 +85,8 @@ describe('SEO Metadata & Canonical Utility Tests', () => {
   describe('robots.ts verification', () => {
     it('returns valid Robots configuration matching technical SEO guidelines and allows Googlebot', () => {
       const result = robots();
-      expect(result.sitemap).toBe('https://bestiptvstore.com/sitemap.xml');
-      expect(result.host).toBe('https://bestiptvstore.com');
+      expect(result.sitemap).toBe('https://iptvprostar.com/sitemap.xml');
+      expect(result.host).toBe('https://iptvprostar.com');
       
       const rules = Array.isArray(result.rules) ? result.rules : [result.rules];
       
@@ -123,22 +123,22 @@ describe('SEO Metadata & Canonical Utility Tests', () => {
       const uniqueUrls = new Set(urls);
       expect(uniqueUrls.size).toBe(1000);
 
-      // Verify every URL starts with https://bestiptvstore.com
+      // Verify every URL starts with https://iptvprostar.com
       for (const entry of entries) {
-        expect(entry.url.startsWith('https://bestiptvstore.com')).toBe(true);
+        expect(entry.url.startsWith('https://iptvprostar.com')).toBe(true);
         expect(entry.url).not.toContain('?');
         expect(entry.url).not.toContain('#');
         // No trailing slash unless it's root domain
-        if (entry.url !== 'https://bestiptvstore.com') {
+        if (entry.url !== 'https://iptvprostar.com') {
           expect(entry.url.endsWith('/')).toBe(false);
         }
       }
 
       // Verify core routes are present
-      expect(urls).toContain('https://bestiptvstore.com');
-      expect(urls).toContain('https://bestiptvstore.com/pricing');
-      expect(urls).toContain('https://bestiptvstore.com/channels');
-      expect(urls).toContain('https://bestiptvstore.com/directory');
+      expect(urls).toContain('https://iptvprostar.com');
+      expect(urls).toContain('https://iptvprostar.com/pricing');
+      expect(urls).toContain('https://iptvprostar.com/channels');
+      expect(urls).toContain('https://iptvprostar.com/directory');
     });
   });
 });

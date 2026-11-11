@@ -1,8 +1,8 @@
 export const SITE = {
   name: 'IPTVSubs8K',
   legalName: 'IPTVSubs8K Streaming Media LLC',
-  domain: 'bestiptvstore.com',
-  url: 'https://bestiptvstore.com',
+  domain: 'iptvprostar.com',
+  url: 'https://iptvprostar.com',
   email: 'support@streamb4.com',
   whatsapp: '+212625218443',
   whatsappUrl: 'https://wa.me/212625218443',

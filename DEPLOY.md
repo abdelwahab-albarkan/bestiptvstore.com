@@ -1,6 +1,6 @@
-# Production Deployment Guide: BestIPTVUSA4k.com
+# Production Deployment Guide: IPTVProStar.com
 
-This comprehensive runbook details the end-to-end production deployment process for **BestIPTVUSA4k.com** (`https://bestiptvusa4k.com`).
+This comprehensive runbook details the end-to-end production deployment process for **IPTVProStar.com** (`https://iptvprostar.com`).
 
 ---
 
@@ -11,7 +11,7 @@ Before initiating deployment, verify you have the following access and toolchain
 - **Package Manager**: npm (v10+) or pnpm (v9+).
 - **Version Control**: Git installed and authenticated with your repository provider (GitHub, GitLab, or Bitbucket).
 - **Vercel Account**: Team or personal account on [Vercel.com](https://vercel.com) with project deployment privileges.
-- **Domain Registrar Access**: Administrative control of the DNS management panel for **bestiptvusa4k.com** (Namecheap, GoDaddy, Cloudflare, Google Domains, Porkbun).
+- **Domain Registrar Access**: Administrative control of the DNS management panel for **iptvprostar.com** (Namecheap, GoDaddy, Cloudflare, Google Domains, Porkbun).
 - **Support Inbox**: Active monitoring access to `support@streamb4.com`.
 
 ---
@@ -70,7 +70,7 @@ Before committing and pushing code to the deployment branch, run local test and 
 
 2. **Configure Environment Variables:**
    Under **Project Settings > Environment Variables**, add:
-   - `NEXT_PUBLIC_SITE_URL` = `https://bestiptvusa4k.com`
+   - `NEXT_PUBLIC_SITE_URL` = `https://iptvprostar.com`
    - `SUPPORT_EMAIL` = `support@streamb4.com`
    - `NEXT_PUBLIC_WHATSAPP_NUMBER` = `+212625218443`
    - `NEXT_PUBLIC_WHATSAPP_URL` = `https://wa.me/212625218443`
@@ -80,14 +80,14 @@ Before committing and pushing code to the deployment branch, run local test and 
 3. **Deploy Project:**
    - Click **Deploy**. Vercel will build and assign an initial `*.vercel.app` preview URL.
 
-4. **Connect Custom Domain (`bestiptvusa4k.com`):**
+4. **Connect Custom Domain (`iptvprostar.com`):**
    - Navigate to **Project Settings > Domains**.
-   - Enter `bestiptvusa4k.com` and select **Add**.
-   - Also add `www.bestiptvusa4k.com` and configure it to automatically redirect to the apex domain `bestiptvusa4k.com` (301 Permanent).
+   - Enter `iptvprostar.com` and select **Add**.
+   - Also add `www.iptvprostar.com` and configure it to automatically redirect to the apex domain `iptvprostar.com` (301 Permanent).
 
 5. **Configure DNS Records at Registrar:**
    > [!IMPORTANT]
-   > Follow the exact DNS records displayed in your Vercel Dashboard for `bestiptvusa4k.com`. Do not hardcode arbitrary IP addresses.
+   > Follow the exact DNS records displayed in your Vercel Dashboard for `iptvprostar.com`. Do not hardcode arbitrary IP addresses.
    - **Apex Domain (`@`):** Create an **A Record** pointing to the exact IP shown in your Vercel Domains tab (typically Vercel's global anycast IP).
    - **Subdomain (`www`):** Create a **CNAME Record** pointing to `cname.vercel-dns.com` (or the specific CNAME target provided by Vercel).
    - Allow DNS propagation (typically 5 to 60 minutes). Vercel will automatically provision and renew a free Let's Encrypt SSL certificate.
@@ -98,26 +98,26 @@ Before committing and pushing code to the deployment branch, run local test and 
 
 1. **Domain Property Verification:**
    - Open [Google Search Console](https://search.google.com/search-console).
-   - Add a new **Domain property** for `bestiptvusa4k.com`.
+   - Add a new **Domain property** for `iptvprostar.com`.
    - Copy the verification `TXT` record and add it to your registrar DNS settings. Click **Verify**.
 
 2. **Submit XML Sitemap:**
    - Go to **Sitemaps** in the left menu.
-   - Enter `https://bestiptvusa4k.com/sitemap.xml` and click **Submit**.
+   - Enter `https://iptvprostar.com/sitemap.xml` and click **Submit**.
    - Verify that all marketing, setup, and blog URLs are successfully discovered.
 
 3. **Request Priority Indexing (URL Inspection Tool):**
    Submit the following high-intent URLs for immediate indexing:
-   - `https://bestiptvusa4k.com/` (Homepage — "Best IPTV USA")
-   - `https://bestiptvusa4k.com/pricing` (Transactional — "Buy IPTV USA Subscription")
-   - `https://bestiptvusa4k.com/free-trial` (High-intent trial — "IPTV USA Free Trial")
-   - `https://bestiptvusa4k.com/channels` (Catalog — "USA IPTV Channels List")
-   - `https://bestiptvusa4k.com/setup` (Setup Hub — "IPTV Setup Guide")
-   - `https://bestiptvusa4k.com/setup/firestick` (Top device guide — "Best IPTV for Firestick USA")
-   - `https://bestiptvusa4k.com/blog` (Blog Hub — "IPTV Guides USA")
-   - `https://bestiptvusa4k.com/blog/how-to-choose-best-iptv-service-usa` (Target guide)
-   - `https://bestiptvusa4k.com/blog/iptv-usa-free-trial-guide` (Target guide)
-   - `https://bestiptvusa4k.com/blog/best-iptv-for-smart-tv-usa` (Target guide)
+   - `https://iptvprostar.com/` (Homepage — "Best IPTV USA")
+   - `https://iptvprostar.com/pricing` (Transactional — "Buy IPTV USA Subscription")
+   - `https://iptvprostar.com/free-trial` (High-intent trial — "IPTV USA Free Trial")
+   - `https://iptvprostar.com/channels` (Catalog — "USA IPTV Channels List")
+   - `https://iptvprostar.com/setup` (Setup Hub — "IPTV Setup Guide")
+   - `https://iptvprostar.com/setup/firestick` (Top device guide — "Best IPTV for Firestick USA")
+   - `https://iptvprostar.com/blog` (Blog Hub — "IPTV Guides USA")
+   - `https://iptvprostar.com/blog/how-to-choose-best-iptv-service-usa` (Target guide)
+   - `https://iptvprostar.com/blog/iptv-usa-free-trial-guide` (Target guide)
+   - `https://iptvprostar.com/blog/best-iptv-for-smart-tv-usa` (Target guide)
 
 ---
 
@@ -139,8 +139,8 @@ Before committing and pushing code to the deployment branch, run local test and 
    - Register at [UptimeRobot.com](https://uptimerobot.com).
    - Create a **New Monitor**:
      - **Monitor Type:** HTTP(s)
-     - **Friendly Name:** BestIPTVUSA4k Production Health
-     - **URL (or IP):** `https://bestiptvusa4k.com/api/health`
+     - **Friendly Name:** IPTVProStar Production Health
+     - **URL (or IP):** `https://iptvprostar.com/api/health`
      - **Monitoring Interval:** Every 5 minutes
      - **Alert Contacts:** `support@streamb4.com`
    - Health endpoint returns HTTP 200 with `{ status: 'ok', timestamp: '...', version: '1.0.0' }`.
@@ -151,12 +151,12 @@ Before committing and pushing code to the deployment branch, run local test and 
 
 1. **Resend Domain Verification:**
    - Log in to [Resend.com](https://resend.com).
-   - Add Domain: `bestiptvusa4k.com`.
+   - Add Domain: `iptvprostar.com`.
    - Add the generated DKIM, SPF, and DMARC TXT records at your domain registrar.
    - Verify domain status in Resend dashboard.
 
 2. **Generate API Key & Configure in Vercel:**
-   - In Resend, create a Full Access API key named `bestiptvusa4k-prod`.
+   - In Resend, create a Full Access API key named `iptvprostar-prod`.
    - Add `RESEND_API_KEY=re_...` to Vercel Environment Variables and redeploy.
 
 3. **Code Integration Snippet (`app/api/free-trial/route.ts`):**
@@ -167,19 +167,19 @@ Before committing and pushing code to the deployment branch, run local test and 
    const resend = new Resend(process.env.RESEND_API_KEY);
 
    await resend.emails.send({
-     from: 'BestIPTVUSA4k Support <support@streamb4.com>',
+     from: 'IPTVProStar Support <support@streamb4.com>',
      to: [email],
      subject: 'Your 24-Hour IPTV Free Trial Activation Credentials',
      html: `
-       <h2>Welcome to BestIPTVUSA4k, ${name}!</h2>
+       <h2>Welcome to IPTVProStar, ${name}!</h2>
        <p>Here are your login credentials for your <strong>${device}</strong> setup:</p>
        <ul>
-         <li><strong>M3U Playlist URL:</strong> https://bestiptvusa4k.com/playlist/demo...</li>
-         <li><strong>Xtream Codes Server:</strong> http://line.bestiptvusa4k.com:80</li>
+         <li><strong>M3U Playlist URL:</strong> https://iptvprostar.com/playlist/demo...</li>
+         <li><strong>Xtream Codes Server:</strong> http://line.iptvprostar.com:80</li>
          <li><strong>Username:</strong> trial_${Date.now()}</li>
          <li><strong>Password:</strong> active2026</li>
        </ul>
-       <p>Need setup assistance? Check our <a href="https://bestiptvusa4k.com/setup">Device Setup Guides</a> or contact our WhatsApp desk at +212625218443.</p>
+       <p>Need setup assistance? Check our <a href="https://iptvprostar.com/setup">Device Setup Guides</a> or contact our WhatsApp desk at +212625218443.</p>
      `,
    });
    ```
@@ -189,11 +189,11 @@ Before committing and pushing code to the deployment branch, run local test and 
 ## 9. Post-Deployment Verification Checklist
 
 Immediately after DNS propagation:
-- [ ] **HTTPS Enforced:** Confirm `http://bestiptvusa4k.com` redirects to `https://bestiptvusa4k.com` with a valid SSL lock.
-- [ ] **Apex / WWW Redirect:** Confirm `https://www.bestiptvusa4k.com` cleanly redirects (301) to `https://bestiptvusa4k.com`.
-- [ ] **Sitemap Accessible:** Verify `https://bestiptvusa4k.com/sitemap.xml` responds with valid XML and 20 URLs.
-- [ ] **Robots.txt Accessible:** Verify `https://bestiptvusa4k.com/robots.txt` points to `https://bestiptvusa4k.com/sitemap.xml` and host `https://bestiptvusa4k.com`.
-- [ ] **Health API Responding:** Confirm `curl -i https://bestiptvusa4k.com/api/health` returns status `200 OK`.
+- [ ] **HTTPS Enforced:** Confirm `http://iptvprostar.com` redirects to `https://iptvprostar.com` with a valid SSL lock.
+- [ ] **Apex / WWW Redirect:** Confirm `https://www.iptvprostar.com` cleanly redirects (301) to `https://iptvprostar.com`.
+- [ ] **Sitemap Accessible:** Verify `https://iptvprostar.com/sitemap.xml` responds with valid XML and 20 URLs.
+- [ ] **Robots.txt Accessible:** Verify `https://iptvprostar.com/robots.txt` points to `https://iptvprostar.com/sitemap.xml` and host `https://iptvprostar.com`.
+- [ ] **Health API Responding:** Confirm `curl -i https://iptvprostar.com/api/health` returns status `200 OK`.
 - [ ] **Free Trial API Functional:** Submit a test trial request through `/free-trial` and check response and rate limiter.
 - [ ] **Lighthouse Audit:** Run Google Lighthouse on homepage. Verify Performance > 90, Accessibility = 100, Best Practices = 100, SEO = 100.
 - [ ] **Bing Webmaster Tools:** Import Google Search Console profile into Bing Webmaster Tools for secondary indexation.

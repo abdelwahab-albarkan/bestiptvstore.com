@@ -97,7 +97,7 @@ export async function POST(req: NextRequest) {
     //   const { Resend } = await import('resend');
     //   const resend = new Resend(resendApiKey);
     //   await resend.emails.send({
-    //     from: `BestIPTVUSA4k Support <${supportEmail}>`,
+    //     from: `Support <${supportEmail}>`,
     //     to: [email],
     //     subject: 'Your 24-Hour IPTV Free Trial Activation Credentials',
     //     html: `<p>Hello ${name},</p><p>Your test line for ${device} is now active.</p>`,

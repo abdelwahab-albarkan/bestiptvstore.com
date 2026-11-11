@@ -116,7 +116,7 @@ export default async function DynamicSeoPage({ params }: PageProps) {
     specificSchemaJsonLd = {
       '@context': 'https://schema.org',
       '@type': 'Product',
-      name: `${page.primaryKeyword} — BestIPTVUSA4K Subscription`,
+      name: `${page.primaryKeyword} — ${SITE.name} Subscription`,
       description: page.metaDescription,
       brand: {
         '@type': 'Brand',
@@ -314,7 +314,7 @@ export default async function DynamicSeoPage({ params }: PageProps) {
                 <thead>
                   <tr className="border-b border-slate-800 bg-slate-900/90 text-slate-300">
                     <th className="py-3.5 px-4 sm:px-6 font-semibold">Evaluation Criteria</th>
-                    <th className="py-3.5 px-4 sm:px-6 font-semibold text-emerald-400">Best IPTV USA (BestIPTVUSA4K)</th>
+                    <th className="py-3.5 px-4 sm:px-6 font-semibold text-emerald-400">Best IPTV USA ({SITE.name})</th>
                     <th className="py-3.5 px-4 sm:px-6 font-semibold text-slate-400">Generic / Free Providers</th>
                   </tr>
                 </thead>

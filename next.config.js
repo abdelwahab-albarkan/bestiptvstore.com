@@ -12,7 +12,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'bestiptvstore.com',
+        hostname: 'iptvprostar.com',
       },
       {
         protocol: 'https',
@@ -51,7 +51,7 @@ const nextConfig = {
           },
           {
             key: 'Content-Security-Policy',
-            value: "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://static.cloudflareinsights.com https://plausible.io; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://bestiptvstore.com https://images.unsplash.com; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com https://static.cloudflareinsights.com https://plausible.io; frame-ancestors 'self';",
+            value: "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://static.cloudflareinsights.com https://plausible.io; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://iptvprostar.com https://images.unsplash.com; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com https://static.cloudflareinsights.com https://plausible.io; frame-ancestors 'self';",
           },
         ],
       },

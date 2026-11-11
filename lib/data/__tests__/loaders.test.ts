@@ -190,8 +190,8 @@ describe('Data Layer Loaders & Schema Validation', () => {
     it('should parse and validate brand configuration from brand.md', () => {
       const brand = getBrandConfig();
       expect(brand.name).toBe('IPTVSubs8K');
-      expect(brand.domain).toBe('bestiptvstore.com');
-      expect(brand.url).toBe('https://bestiptvstore.com');
+      expect(brand.domain).toBe('iptvprostar.com');
+      expect(brand.url).toBe('https://iptvprostar.com');
       expect(brand.supportEmail).toBe('support@streamb4.com');
       expect(brand.primaryKeyword).toBe('Best IPTV USA');
       expect(Array.isArray(brand.secondaryKeywords)).toBe(true);

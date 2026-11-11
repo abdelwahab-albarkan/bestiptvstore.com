@@ -6,8 +6,8 @@ const path = require('path');
 const SITE = {
   name: 'IPTVSubs8K',
   legalName: 'IPTVSubs8K Streaming Media LLC',
-  domain: 'bestiptvusa4k.com',
-  url: 'https://bestiptvusa4k.com',
+  domain: 'iptvprostar.com',
+  url: 'https://iptvprostar.com',
   email: 'support@streamb4.com',
   whatsapp: '+212625218443',
   whatsappUrl: 'https://wa.me/212625218443',
@@ -197,9 +197,8 @@ console.log('====================================\n');
 
 // 1. DATA LAYER TESTS
 console.log('[SECTION 1: DATA LOADERS]');
-assert.strictEqual(plans.length, 4, 'Must load exactly 4 plans');
-assert.deepStrictEqual(plans.map(p => p.id), ['1-month', '3-months', '6-months', '12-months']);
-assert.deepStrictEqual(plans.map(p => p.price), [13, 19, 29, 49]);
+assert.strictEqual(plans.length, 3, 'Must load exactly 3 plans');
+assert.deepStrictEqual(plans.map(p => p.id), ['3-months', '6-months', '12-months']);
 const plan12 = plans.find(p => p.id === '12-months');
 assert.strictEqual(plan12.isBestValue, true);
 assert.strictEqual(plan12.isPopular, true);

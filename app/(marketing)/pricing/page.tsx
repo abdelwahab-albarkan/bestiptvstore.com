@@ -16,7 +16,7 @@ import { SITE } from '@/lib/data/site';
 export const revalidate = 3600;
 
 export const metadata: Metadata = buildMetadata({
-  title: 'Best IPTV USA Subscription Plans (2026) | 4K & 8K Pricing — BestIPTVUSA4K',
+  title: `Best IPTV USA Subscription Plans (2026) | 4K & 8K Pricing — ${SITE.name}`,
   description: 'Best IPTV USA subscription plans with 40,000+ live channels, 200,000 VODs, and native 4K sports. Instant 3-minute activation backed by our 7-day guarantee.',
   path: '/pricing',
   keywords: ['Best IPTV USA', 'Best IPTV USA subscription', 'Best IPTV USA pricing', 'buy Best IPTV USA'],
