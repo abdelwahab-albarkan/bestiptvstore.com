@@ -299,9 +299,14 @@ export default async function DynamicSeoPage({ params }: PageProps) {
               <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
                 Best IPTV USA Feature Comparison &amp; Specifications for {page.primaryKeyword}
               </h2>
-              <p className="text-slate-400 text-sm">
-                How our <strong>Best IPTV USA</strong> service compares to standard legacy providers for {page.primaryKeyword}:
-              </p>
+              <div className="flex items-center justify-between text-slate-400 text-sm">
+                <p>
+                  How our <strong>Best IPTV USA</strong> service compares to standard legacy providers for {page.primaryKeyword}:
+                </p>
+                <span className="text-[11px] text-emerald-400 font-semibold sm:hidden shrink-0">
+                  Swipe horizontally ›
+                </span>
+              </div>
             </div>
 
             <div className="overflow-x-auto rounded-xl border border-slate-800 bg-slate-900/60 shadow-xl">

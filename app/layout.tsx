@@ -5,6 +5,7 @@ import { buildMetadata } from '@/lib/seo/metadata';
 import { organizationSchema, websiteSchema } from '@/lib/seo/schema';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
+import { FloatingWhatsApp } from '@/components/ui/FloatingWhatsApp';
 
 export const viewport: Viewport = {
   themeColor: '#020617',
@@ -39,7 +40,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }}
         />
       </head>
-      <body className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
+      <body className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans overflow-x-hidden antialiased selection:bg-emerald-500 selection:text-slate-950">
         <a
           href="#main-content"
           className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-emerald-500 focus:text-slate-950 focus:rounded-md focus:font-bold"
@@ -51,6 +52,7 @@ export default function RootLayout({
           {children}
         </div>
         <Footer />
+        <FloatingWhatsApp />
       </body>
     </html>
   );
